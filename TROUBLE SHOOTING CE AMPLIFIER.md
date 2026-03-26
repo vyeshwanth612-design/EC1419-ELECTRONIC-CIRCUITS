@@ -5,9 +5,14 @@
 <img width="862" height="776" alt="image" src="https://github.com/user-attachments/assets/e84201fb-e35d-49d4-9f21-e5fe9856d519" />
 <img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
 
+![20260326_184822](https://github.com/user-attachments/assets/7925e328-03e1-4b5a-814d-e098be99b230)
+
 
 ## Tabulations 
 
 ## Semilog Graph
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+
+![20260326_184617](https://github.com/user-attachments/assets/743cd6ff-72aa-4e54-9f1f-ee07897ec042)
+
