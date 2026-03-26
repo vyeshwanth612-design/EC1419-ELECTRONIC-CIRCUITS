@@ -39,8 +39,8 @@
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
-![20260326_183154 (1)](https://github.com/user-attachments/assets/3e91365e-d1ca-412e-b040-2a4cd1754ca3)
 
+![20260326_183154 (2)](https://github.com/user-attachments/assets/84ab02be-27e6-42a6-9023-d994fb9fc1dc)
 
 **VOLTAGE GAIN =**39dB
 
