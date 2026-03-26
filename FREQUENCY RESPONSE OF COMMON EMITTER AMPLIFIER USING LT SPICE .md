@@ -15,6 +15,8 @@
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+
+
 ![20260326_183054 (3)](https://github.com/user-attachments/assets/ca52a798-f0f1-4aa4-bc66-cea8aa75303d)
 
 
