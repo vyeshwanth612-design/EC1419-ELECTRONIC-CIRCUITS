@@ -29,6 +29,8 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
+![20260326_184547](https://github.com/user-attachments/assets/4c3f44d6-833d-4e89-a973-60ca6d56e56b)
+
 
 
 ## Tabulation
@@ -37,6 +39,8 @@
 
 ## Graph
 ![20260326_183134 (1)](https://github.com/user-attachments/assets/bbc32971-230e-4a30-b113-37e3e5d97ef1)
+
+
 
 
 
