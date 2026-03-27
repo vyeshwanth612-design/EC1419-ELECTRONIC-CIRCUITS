@@ -11,6 +11,8 @@
 
 # Tabulation with readings
 
+![WhatsApp Image 2026-03-27 at 2 10 41 PM](https://github.com/user-attachments/assets/45eeec26-d21a-462e-979b-a41fa1c14e47)
+
 ## Semilog plotted Graph
 
 ![WhatsApp Image 2026-03-27 at 1 40 04 PM (2)](https://github.com/user-attachments/assets/93092d4f-c117-4efc-920d-208344d84cde)
